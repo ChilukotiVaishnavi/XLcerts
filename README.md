@@ -9,7 +9,7 @@ The XL CERTS is a project aimed at streamlining the process of creating certific
                             # IMPLEMENTATION
 +	Open the run.bat file, the command prompt will automatically open, and you can follow the link. Make sure not to close the command prompt. 
 + This is our project interface
-![Image of project]([https://github.com/ChilukotiVaishnavi/XLcerts/img.png](https://github.com/ChilukotiVaishnavi/XLcerts/blob/main/img.png))
+!(https://github.com/ChilukotiVaishnavi/XLcerts/blob/main/img.png))
 + Upload the Excel data in the format given.
 + Click download button for certificate download
 
